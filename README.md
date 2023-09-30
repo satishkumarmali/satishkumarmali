@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Satish Mali
 - 👀 I’m interested in server related tasks.
 - 🌱 I’m currently working as a software engineer role.
-- 💞️ I’m looking to collaborate on devops related technology.
 - 📫 Reach me at satishmali98@gmail.com
 
 <!---
